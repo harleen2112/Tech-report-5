@@ -11,7 +11,7 @@ ChatGPT and Gemini represent the latest advancements in AI-driven tools for prod
 Based on testing, **ChatGPT** excels in handling text-centric tasks like generating detailed reports, assisting with coding, and engaging in natural conversations. **Gemini**, however, stands out with its ability to process multimodal inputs, making it more versatile for tasks that require combining text, images, or videos.  
 
 # Additional Resources  
-- [ChatGPT Overview](https://www.pcmag.com/picks/the-best-chatgpt-plugins)  
+- [ChatGPT Overview](https://openai.com/index/chatgpt/)  
 - [Gemini AI: Google's Multimodal Powerhouse](https://www.pcmag.com/comparisons/chatgpt-vs-gemini-ive-tested-both-and-one-is-definitely-better)  
 
 
